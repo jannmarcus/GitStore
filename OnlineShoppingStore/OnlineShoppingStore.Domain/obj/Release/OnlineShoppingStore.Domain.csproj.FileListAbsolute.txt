@@ -1,0 +1,13 @@
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\OnlineShoppingStore.Domain.dll.config
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\OnlineShoppingStore.Domain.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\OnlineShoppingStore.Domain.pdb
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\EntityFramework.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\System.Web.Mvc.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\EntityFramework.xml
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Release\OnlineShoppingStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Release\OnlineShoppingStore.Domain.Migrations.initial.resources
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Release\OnlineShoppingStore.Domain.csproj.GenerateResource.Cache
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Release\OnlineShoppingStore.Domain.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Release\OnlineShoppingStore.Domain.pdb

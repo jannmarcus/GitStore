@@ -1,0 +1,12 @@
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll.config
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.pdb
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.dll
+c:\users\kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.pdb
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.Migrations.initial.resources
+C:\Users\Kacey\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csproj.GenerateResource.Cache
