@@ -12,7 +12,7 @@ namespace OnlineShoppingStore.Domain.Concrete
         public string MailFromAddress = "kaceymanalac@gmail.com";
         public bool UseSsl = true;
         public string Username = "kaceymanalac@gmail.com";
-        public string Password = "Do347Ghs";
+        public string Password = "123456789";
         public string ServerName = "smtp.gmail.com";
         public int ServerPort = 587;
 
